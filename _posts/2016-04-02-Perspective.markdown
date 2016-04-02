@@ -34,7 +34,7 @@ Perspective, 원근법
 화면의 대상물을 바로 정면에서 봤을 때 적용된다.
 일정하게 계속되는 길 등을 묘사할때 효과적.
 
-![1점 투시도법](file:///Users/jieunkoo/Desktop/one_perspective.png)
+![1점 투시도법](http://bimage.interpark.com/goods_image/1/4/7/1/208631471f.jpg)
 
 * 2점 투시도법 (난이도 : 보통)
 1점 투시도법에서 시점을 비켜 비스듬하게 대상물을 바라보는 표현법.
